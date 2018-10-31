@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elenajinyoungyoo/2018 Fall/EE312/Project /lab5Utpod/UtPod.cpp
+song.h
+/Users/elenajinyoungyoo/2018 Fall/EE312/Project /lab5Utpod/song.h
+UtPod.h
+/Users/elenajinyoungyoo/2018 Fall/EE312/Project /lab5Utpod/UtPod.h
+cstdlib
+-
+time.h
+-
+
+/Users/elenajinyoungyoo/2018 Fall/EE312/Project /lab5Utpod/UtPod.h
+song.h
+/Users/elenajinyoungyoo/2018 Fall/EE312/Project /lab5Utpod/song.h
+ctime
+-
+
+/Users/elenajinyoungyoo/2018 Fall/EE312/Project /lab5Utpod/UtPod_Driver.cpp
+cstdlib
+-
+iostream
+-
+song.h
+/Users/elenajinyoungyoo/2018 Fall/EE312/Project /lab5Utpod/song.h
+UtPod.h
+/Users/elenajinyoungyoo/2018 Fall/EE312/Project /lab5Utpod/UtPod.h
+
+/Users/elenajinyoungyoo/2018 Fall/EE312/Project /lab5Utpod/song.cpp
+iostream
+-
+string
+-
+song.h
+/Users/elenajinyoungyoo/2018 Fall/EE312/Project /lab5Utpod/song.h
+
+/Users/elenajinyoungyoo/2018 Fall/EE312/Project /lab5Utpod/song.h
+iostream
+-
+string
+-
+
